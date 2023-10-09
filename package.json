@@ -12,7 +12,8 @@
     "next": "latest",
     "react": "latest",
     "react-dom": "latest",
-    "react-icons": "^4.11.0"
+    "react-icons": "^4.11.0",
+    "swr": "^2.2.4"
   },
   "devDependencies": {
     "@types/navermaps": "^3.7.0",
